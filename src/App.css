@@ -1,0 +1,7 @@
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.card .card-body svg{
+  height: 300px;
+}
